@@ -15,6 +15,8 @@ In the future, we will consider adding an automatic text component for grabbing 
 
 
 
+This is a link to the kaggle notebook for dataset processing and model training  [Multi-classification emotion recognition task (kaggle.com)](https://www.kaggle.com/code/hengyulling/multi-classification-emotion-recognition-task)
+
 In the process of model training and evaluation, the best model files are saved by using dump() of the joblib library.
 
 ![](resources/78906.png)

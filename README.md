@@ -16,6 +16,8 @@
 
 
 
+这是数据集处理及模型训练的kaggle笔记本链接 [Multi-classification emotion recognition task (kaggle.com)](https://www.kaggle.com/code/hengyulling/multi-classification-emotion-recognition-task)
+
 在模型训练及评估过程中，使用 joblib 库的 dump() 保存了训练出来的最佳模型文件。
 
 ![](resources/78906.png)
